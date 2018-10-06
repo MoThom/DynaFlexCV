@@ -7,7 +7,6 @@ Created on Fri Oct  5 15:50:36 2018
 
 
 
-
 def segmentation(nameOfVid='example.mp4', thresh=140, percent=50):
     
     ''' 
