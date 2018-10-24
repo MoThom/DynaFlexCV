@@ -1,4 +1,4 @@
-# DynaFlexCV (Elucidating the DYNAmics of a FLEXible structure using Computer Vision)
+# DynaFlexCV (Exploring the DYNAmics of a FLEXible submerged structure exposed to water flow, using Computer Vision)
 
 by Moritz Thom 2018
 
