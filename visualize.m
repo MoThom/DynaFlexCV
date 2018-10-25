@@ -1,4 +1,4 @@
-%read output of pyFlexCV, save in struct
+%read output of dynaflexcv, save in struct
 
 fps = 29;        %set fps from movie properties
 
